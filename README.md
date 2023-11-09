@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Wong</h1>
-<h3 align="center">A career-changing Computer Science student with previous experience at big tech companies. I have experience building web applications and am currently Android mobile application development.</h3>
+<h3 align="center">A career-changing Computer Science student with previous experience at big tech companies. I have experience building web applications and am currently learning Android mobile application development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebrianwong&label=Profile%20views&color=0e75b6&style=flat" alt="thebrianwong" /> </p>
 
